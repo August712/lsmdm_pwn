@@ -8,7 +8,11 @@
 
 > 2. Great, ingenious; applied to methods and objects.
 
-LSMDM_pwn removes Mobile Device Management (MDM) services from an iOS device. Since my school uses LightSpeed MDM Services (LSMDM) to tower over us all, I thought I would make the name a joke. LSMDM_pwn uses a modified partial restore containing the ~/MobileConfiguration/ directory.
+It’s about time I pull this project out of the ashes.
+
+“LSMDM_pwn” removes Mobile Device Management (MDM) services from an iOS device. Since my school used LightSpeed MDM Services (LSMDM) to tower over us all, I thought I would make the name a joke. LSMDM_pwn uses a modified partial restore containing the ~/MobileConfiguration/ directory.
+
+Now with iOS mitigating backup modifications as of iOS 10, I gotta find a new way to get this to work.
 
 **WARNING! THIS BETA REQUIRES A MAC WITH XCODE 7.0+ INSTALLED!**
 
